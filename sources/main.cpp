@@ -5,6 +5,8 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Hallo!";
+  char name[32];
+  std::cin >> name;
+  std::cout << name << " ";
   return 0;
 }

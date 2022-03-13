@@ -173,7 +173,7 @@ int regular_value = static_cast<int>(big_value);
 #### Предостережение
 
 Не стоит кастовать "большой" тип в "малый", если неизвестно достоверно, что
-числа не будут выходить за рамки "малого" типа. 
+числа не будут выходить за рамки "малого" типа. Иначе будет как в этом меме:
 
 <img align="center" width="350" height="400" src="https://funart.pro/uploads/posts/2021-07/1626764241_1-funart-pro-p-khomyachok-i-banan-zhivotnie-krasivo-foto-1.jpg">
 

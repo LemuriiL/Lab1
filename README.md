@@ -2,6 +2,8 @@
 
 
 ## Вступление
+
+**[Пропуск вступления (если оно уже прочитанно)](https://github.com/c-cpp-labs/lab-01-typing#теория)**
 Господа и господессы, мы рады приветствовать вас в нашем образовательном проекте! Надеюсь не будет обид по поводу того, что дальше мы вас будет ласково величат маслятами)
 
 <img align="center" width="250" height="350" src="https://sun9-78.userapi.com/impg/wOu9cYnSALO1urtfJ5O_l36VzukLijqBcE77mg/d925A7hWeTk.jpg?size=670x894&quality=96&sign=cd479cc6cd58c8431844f7b280db09b9&type=album">

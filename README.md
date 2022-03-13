@@ -4,26 +4,26 @@
 ## Вступление
 Господа и господессы, мы рады приветствовать вас в нашем образовательном проекте! Надеюсь не будет обид по поводу того, что дальше мы вас будет ласково величат маслятами)
 
-![маслята](https://sun9-78.userapi.com/impg/wOu9cYnSALO1urtfJ5O_l36VzukLijqBcE77mg/d925A7hWeTk.jpg?size=670x894&quality=96&sign=cd479cc6cd58c8431844f7b280db09b9&type=album)
+<img align="center" width="400" height="600" src="https://sun9-78.userapi.com/impg/wOu9cYnSALO1urtfJ5O_l36VzukLijqBcE77mg/d925A7hWeTk.jpg?size=670x894&quality=96&sign=cd479cc6cd58c8431844f7b280db09b9&type=album">
 
 Поскольку вы сейчас читаете этот текст, вы для себя решили, что хотите получить, закрепить (нужное подчеркнуть) навыки программирования. Пришло время переходить к делу :ъ
 Надеюсь наши дорогие маслятки уже ознакомились с **[темпланом](https://github.com/c-cpp-labs/c-cpp-labs)**, но ещё пару слов о курсе не будут лишними. Цель у данного курса лишь одна - помочь людям научиться МЫСЛИТЬ критериями программирования и в дальнейшем самим научится решать задачи, которые стоят перед ними. Тоесть грубо говоря мы довезем вас до середины реки, а дальше будем уповать на вышу смекалку и упорство. Где-то мы протяним вам палочку-выручалочку, где-то огреем ею по вашей замечательной шляпке.
 
-![помощь](https://sun9-82.userapi.com/impg/AbP1vGbSYwlwZPytZSdcEIH5nhUiy9W-JwcUsw/2MrZHMNVCwg.jpg?size=1068x830&quality=96&sign=7b7a1b1365fe81449dcaab27dd2700e6&type=album)
+<img align="center" width="500" height="350" src="https://sun9-82.userapi.com/impg/AbP1vGbSYwlwZPytZSdcEIH5nhUiy9W-JwcUsw/2MrZHMNVCwg.jpg?size=1068x830&quality=96&sign=7b7a1b1365fe81449dcaab27dd2700e6&type=album">
 
 Одно мы можем гарантировать железно - легко не будет.
 
-![легко](https://sun9-83.userapi.com/impg/YKIAeDXymCXOwf-04UEWmRTq59R7x5I_vO3GKw/WmjSvTCDW6g.jpg?size=604x453&quality=96&sign=059883fd29aa0758cfe81ba5ffdd97af&type=album)
+<img align="center" width="500" height="350" src="https://sun9-83.userapi.com/impg/YKIAeDXymCXOwf-04UEWmRTq59R7x5I_vO3GKw/WmjSvTCDW6g.jpg?size=604x453&quality=96&sign=059883fd29aa0758cfe81ba5ffdd97af&type=album">
 
 Ваши находчивость, трудолюбие и желание научиться новому обязательно приведут вас к желанным навыкам и умениям, которые станут наградой за ваш нелёгкий труд и ваши страдания. К слову о страданиях, пожалуй уже пора рассказать о более конкретных вещах.
 Курс не рассчитан на определённые языки ну или упоси господь один язык.
 
-<img align="center" width="600" height="400" src="https://sun9-13.userapi.com/impg/kSJP_WPk2WdtVqSso_GAcKgtg800YoHQT01imQ/-ptcH15M4Wg.jpg?size=600x400&quality=96&sign=c3411dcdac5f57d4f5dda82772e725a6&type=album">
+<img align="center" width="400" height="150" src="https://sun9-13.userapi.com/impg/kSJP_WPk2WdtVqSso_GAcKgtg800YoHQT01imQ/-ptcH15M4Wg.jpg?size=600x400&quality=96&sign=c3411dcdac5f57d4f5dda82772e725a6&type=album">
 
 Ближе к середине курса вы вольны выбирать любой на ваш (самый правильный и зрящий в корень) взгляд подходящий язык программирования. Ну а чтобы хорошенько подогреть ваши стулья и смазать наших юных маслят маслом пожалуй начать стоит с великого и ужасного С++. Думаю о нем слышал даже глухой, ну а то что он "сложный", "непонятный", а так же о его высочяйщем пороге вхождения и подавно. На самом деле язык очень показательный и уж простите за субъективность является классикой в программировании, поскольку совмещает в себе плюсы низкоуровневости (доступ к памяти и подобные вкусняшки) а так же удобство и современность высокоуровневого языка (абстрактность).
 Спасибо за внимание. А теперь от слов к делу.
 
-![поехали](https://sun9-6.userapi.com/impg/p4u7R1xXiOlm6wYJvKFjMefWChLuk5H9P1x92g/7FVSwSTZ-VE.jpg?size=1280x720&quality=96&sign=19bb0db61c94589edf36e06408263d1d&type=album)
+<img align="center" width="400" height="150" src="https://sun9-6.userapi.com/impg/p4u7R1xXiOlm6wYJvKFjMefWChLuk5H9P1x92g/7FVSwSTZ-VE.jpg?size=1280x720&quality=96&sign=19bb0db61c94589edf36e06408263d1d&type=album">
 
 ## Теория
 Итак, начнём наш курс с того, с чего обычно принято начинать любой курс по программированию.
@@ -32,7 +32,7 @@
 
 Это база - это знать НАДААА! В общем любой уважающий себя и традиции программист начинал с этого, ну а че мы хуже что ли?
 
-![хелоу](https://sun9-68.userapi.com/impg/yWBIVcCOIVo8ZGaKhW79vlPuziKygDkZimXGGA/fjnkyEf08fA.jpg?size=500x566&quality=96&sign=865c602ed10c4d9245822b8ecd42f4b2&type=album)
+<img align="center" width="400" height="400" src="https://sun9-68.userapi.com/impg/yWBIVcCOIVo8ZGaKhW79vlPuziKygDkZimXGGA/fjnkyEf08fA.jpg?size=500x566&quality=96&sign=865c602ed10c4d9245822b8ecd42f4b2&type=album">
 
 ### Первая программа, ввод и вывод 
 
@@ -58,8 +58,7 @@ int main() {
 
 С миром поздоровались, опустимся на землю
 
-![хелоу2](https://sun9-12.userapi.com/impg/cwMvWE4b5B4Yp4WAlcgHYtwr5YXK5a4JObUlCQ/lVx6nC2yk9k.jpg?size=750x1020&quality=96&sign=0dfe655663848171e3ade1f6620c98e0&type=album)
-
+<img align="center" width="200" height="400" src="https://sun9-12.userapi.com/impg/cwMvWE4b5B4Yp4WAlcgHYtwr5YXK5a4JObUlCQ/lVx6nC2yk9k.jpg?size=750x1020&quality=96&sign=0dfe655663848171e3ade1f6620c98e0&type=album">
 
 ```c++
 #include <iostream>

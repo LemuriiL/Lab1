@@ -58,8 +58,6 @@ int main() {
 
 С миром поздоровались, опустимся на землю
 
-<img align="center" width="350" height="400" src="https://sun9-12.userapi.com/impg/cwMvWE4b5B4Yp4WAlcgHYtwr5YXK5a4JObUlCQ/lVx6nC2yk9k.jpg?size=750x1020&quality=96&sign=0dfe655663848171e3ade1f6620c98e0&type=album">
-
 ```c++
 #include <iostream>
 
@@ -71,6 +69,9 @@ int main() {
     return 0;
 }
 ```
+
+<img align="center" width="350" height="400" src="https://sun9-12.userapi.com/impg/cwMvWE4b5B4Yp4WAlcgHYtwr5YXK5a4JObUlCQ/lVx6nC2yk9k.jpg?size=750x1020&quality=96&sign=0dfe655663848171e3ade1f6620c98e0&type=album">
+
 Рассмотрим новые строки
 - `char name[32];` - объявление переменной, которая будет содержать имя
 - `std::cout << "Enter your name: ";` - строка, которая отвечает за вывод на консоль запроса указать имя

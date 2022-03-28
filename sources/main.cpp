@@ -1,12 +1,16 @@
 //
-// Created by MrMam on 05.03.2022.
+// Created by LemuriiL on 18.03.2022.
 //
 
 #include <iostream>
+#include <windows.h>
 
 int main() {
-  char name[32];
-  std::cin >> name;
-  std::cout << name << " ";
-  return 0;
+  system("chcp 65001");
+  SetConsoleOutputCP(CP_UTF8);
+ using std::cout;
+ using std::cin;
+ using std::endl;
+ cout << "########УПРАЖНЕНИЕ ########\n";
+
 }

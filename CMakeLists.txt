@@ -16,10 +16,10 @@ string(
 )
 add_library(${PROJECT_NAME} STATIC
   ${CMAKE_CURRENT_SOURCE_DIR}/sources/example/example.cpp
-)
+        sources/Lab1.1.cpp sources/Lab1.2.cpp sources/Lab1.3.cpp sources/Lab1.4.cpp sources/Lab1.5.cpp sources/Lab1.6.cpp sources/Lab1.7.cpp sources/Lab1.8.cpp sources/Lab1.9.cpp sources/Lab1.10.cpp sources/Lab1.18.cpp sources/Lab1.11.cpp sources/Lab1.12.cpp sources/Lab1.13.cpp sources/Lab1.14.cpp sources/Labs15-17.cpp)
 
 add_executable(${PROJECT_NAME}_ex
-  ${CMAKE_CURRENT_SOURCE_DIR}/sources/main.cpp
+  ${CMAKE_CURRENT_SOURCE_DIR}/sources/Labs15-17.cpp
 )
 
 target_include_directories(${PROJECT_NAME} PUBLIC

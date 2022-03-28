@@ -3,7 +3,7 @@
 //
 
 #include <iostream>
-#include <windows.h>
+#include <Windows.h>
 
 int main() {
   system("chcp 65001");

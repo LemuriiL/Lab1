@@ -3,15 +3,15 @@
 //
 
 #include <iostream>
-#include <Windows.h>
+//#include <Windows.h>
 
 int main() {
-  system("chcp 65001");
-  SetConsoleOutputCP(CP_UTF8);
+ // system("chcp 65001");
+ // SetConsoleOutputCP(CP_UTF8);
   using std::cout;
   using std::cin;
   using std::endl;
-  cout << "########Ð£ÐŸÐ ÐÐ–ÐÐ•ÐÐ˜Ð• ÐÐ”Ð«Ð#######\n";
+  cout << "########“€†…ˆ… €„›#######\n";
   cout << "1 "
        << "13 "
        << "4221\n";

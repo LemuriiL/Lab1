@@ -3,11 +3,7 @@
 //
 
 #include <iostream>
-#include <windows.h>
-
 int main() {
-  system("chcp 65001");
-  SetConsoleOutputCP(CP_UTF8);
   using std::cout;
   using std::cin;
   using std::endl;
@@ -36,5 +32,4 @@ int main() {
  second.second_second_number = seconds%10;
  cout << hours << ":" << minute.first_minute_number << minute.second_minute_number
       << ":" << second.first_second_number << second.second_second_number;
-
 }

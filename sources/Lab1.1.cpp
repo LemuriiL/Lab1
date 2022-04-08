@@ -3,11 +3,7 @@
 //
 
 #include <iostream>
-//#include <Windows.h>
-
 int main() {
- // system("chcp 65001");
- // SetConsoleOutputCP(CP_UTF8);
   using std::cout;
   using std::cin;
   using std::endl;

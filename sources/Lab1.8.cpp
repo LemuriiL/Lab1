@@ -6,12 +6,7 @@
 //вычисления значения функции y=3x^3 + 4x^2 - 11x + 1 при любом значении x.
 
 #include <iostream>
-#include <windows.h>
-#include <math.h>
-
 int main() {
-  system("chcp 65001");
-  SetConsoleOutputCP(CP_UTF8);
   using std::cout;
   using std::cin;
   using std::endl;
@@ -24,6 +19,4 @@ int main() {
   x = static_cast<long long>(12*pow(a,2)+7*a-12);
   y = 3*pow(x,3)+4*pow(x,2)-11*x+1;
   cout << "x: " << x << " y: " << y;
-
-
 }

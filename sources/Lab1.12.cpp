@@ -3,11 +3,7 @@
 //
 
 #include <iostream>
-#include <windows.h>
-
 int main() {
-  system("chcp 65001");
-  SetConsoleOutputCP(CP_UTF8);
   using std::cout;
   using std::cin;
   using std::endl;
@@ -27,6 +23,4 @@ int main() {
   cout << endl;
   Result = ((Footing1 + Footing2)/2)*h;
   cout << Result;
-
-
 }

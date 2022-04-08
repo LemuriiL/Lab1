@@ -3,12 +3,8 @@
 //
 
 #include <iostream>
-#include <windows.h>
 #include <math.h>
-
 int main() {
-  system("chcp 65001");
-  SetConsoleOutputCP(CP_UTF8);
   using std::cout;
   using std::cin;
   using std::endl;
@@ -44,8 +40,4 @@ int main() {
   Sum2 = Point2.y2 - Point1.y1;
   Result = sqrt(pow(Sum1,2)+pow(Sum2,2));
   cout << Result;
-
-
-
-
 }

@@ -6,6 +6,7 @@
 //вычисления значения функции y=3x^3 + 4x^2 - 11x + 1 при любом значении x.
 
 #include <iostream>
+#include "cmath"
 int main() {
   using std::cout;
   using std::cin;
